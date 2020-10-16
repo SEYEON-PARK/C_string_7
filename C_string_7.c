@@ -3,8 +3,8 @@
 
 int main(void)
 {
-	char a[30] = "¾È³çÇÏ¼¼¿ä.";
-	printf("%d\n", strchr(a, 'ÇÏ'));
+	char a[30] = "ì•ˆë…•í•˜ì„¸ìš”.";
+	printf("%d\n", strchr(a, 'í•˜'));
 
 	return 0;
 }
